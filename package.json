@@ -1,0 +1,10 @@
+{
+  "name": "eventura-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "react-chartjs-2": "^5.3.1",
+    "react-router-dom": "^7.13.1"
+  }
+}
